@@ -105,3 +105,6 @@
 100. pictimo - [link](https://www.pictimo.com/)
 101. windy - [link](https://www.windy.com/webcams)
 102. os-surveillance - [link](https://www.os-surveillance.io/)
+103. codefinder - [link](https://codefinder.org/)
+104. searchcode - [link](https://searchcode.com/)
+105. sourcegraph - [link](https://sourcegraph.com/search)
