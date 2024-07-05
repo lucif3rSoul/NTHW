@@ -19,6 +19,8 @@ So, until around 2021, before I started my adventure with CTFs, I already had so
 
 But what exactly are CTFs and why did I choose the Hack The Box platform and not another one? I  will try to answer these questions later in the article.
 
+And if you don't know where to start, you can watch a video on YouTube titled: [The MOST IMPORTANT advice for young hackers](https://www.youtube.com/watch?v=0Ejj2aBG5c8) which in my opinion is a good starting video.
+
 ### What are CTFs?
 
 For the majority of people reading this article, the acronym CTF should not be a problem. However, if you don't know what CTFs are, let me explain. CTF or **C**apture **T**he **F**lag is largely a team tournament during which teams try to solve as many tasks as possible from categories related to security/hacking, such as web (security web applications), pwn (low-level exploitation/security of native applications), RE (crackme / general reverse engineering), crypto (cryptanalysis), forensics (forensics), stegano (steganography), ppc/programming (programming/algorithms). Of course, instead of large tournaments, the entire game can be "wrapped" in a platform that from time to time releases new challenges/machines that we have to face.
@@ -208,7 +210,7 @@ As I mentioned, in addition to developing my skills on the platform, I met many 
 * [Riccardo M.](https://www.linkedin.com/in/ricc-m/)
 * [Tamás Péter](https://www.linkedin.com/in/tam%C3%A1s-p%C3%A9ter-705136285/)
 * [Bryan McNulty](https://www.linkedin.com/in/bryanmcnulty/)
-* [Roberto Gesteira Miñarro](https://www.linkedin.com/in/roberto-gesteira-minarro/)
+* [7Rocky](https://7rocky.github.io/)
 * [Markus Mayer](https://www.linkedin.com/in/markus-mayer-57b2971b7/)
 * [Yaniv Buta](https://www.linkedin.com/in/yanivbuta/)
 * [Dimitar Ganev](https://www.linkedin.com/in/dimitar-ganev-syl-/)
